@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.circle {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+  background-color: rgb(231, 22, 109);
+  top: -7px;
+  left: 17px;
+}/*# sourceMappingURL=style.css.map */

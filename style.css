@@ -12,4 +12,17 @@
   background-color: rgb(231, 22, 109);
   top: -7px;
   left: 17px;
+}
+
+.star {
+  width: 2rem;
+  height: 2rem;
+  margin: auto;
+}
+
+.energies {
+  width: 24rem;
+  padding: 4rem;
+  border: 2px solid rgb(220, 213, 213);
+  border-radius: 50% 50% 0% 0%;
 }/*# sourceMappingURL=style.css.map */
